@@ -47,3 +47,12 @@ Ex. Q: What should I do to start mining Bitcoin?
 
 ### Interesting Facts
 * The word "Blockchain" was not used in Satoshi Paper at all (only "chain of blocks"). It was used and became popular later
+
+### How to distribute the coin, making new "money" supplying the market?
+* Different types of proof
+    - proof of work
+    - proof of stake
+    - proof of importance
+    - proof of correctness
+* Buy from the creator of the money (unfair)
+* 
