@@ -49,10 +49,11 @@ Ex. Q: What should I do to start mining Bitcoin?
 * The word "Blockchain" was not used in Satoshi Paper at all (only "chain of blocks"). It was used and became popular later
 
 ### How to distribute the coin, making new "money" supplying the market?
-* Different types of proof
-    - proof of work
-    - proof of stake
-    - proof of importance
-    - proof of correctness
+* Depends on different types of proof
+    - proof of work, miners earn the new money through mining
+    - proof of stake, money holders earn the new money through just holding the money
+    - proof of importance, money holders earn the new money through holding and using the money
 * Buy from the creator of the money (unfair)
-* 
+* Buy from the people you connect with face to face offline
+* Buy from cryptocurrency exchange
+* Other ways
